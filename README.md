@@ -115,7 +115,7 @@ Salva e siga o proximo passo.
 6 - Ultimo passo é só rodar a nossa imagem e ser feliz ;D
 
 ```bash
-  docker run -d --network giro --name giropops-senhas -p 5000:5000 vitorsoliveira/linuxtips-giropops-senhas:1.0
+  docker run -d --network <nome-da-network> --name <nome-do-container> -p <porta> <nome-da-sua-imagem>
 ```
 
 
