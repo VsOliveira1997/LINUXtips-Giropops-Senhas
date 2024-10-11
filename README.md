@@ -1,4 +1,4 @@
-# Rodando uma aplicação flask+redis sem utilizar docker compose
+# Rodando uma aplicação flask+redis sem utilizar docker-compose
 
 ## 🔧 Dockerfile
 
